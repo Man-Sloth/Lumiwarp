@@ -1,8 +1,5 @@
 # Lumiwarp
 Lumiwarp is a game published to Google Play that I made that was inspired by a childhood toy I had called Brain Warp. But in my game, instead of have a physical ball that you have to turn the right colored side up, you just have to mash the right button that corresponds to the light shown. Sadly, I parted ways with the artist and the project was abandoned. Google took the game off of the store and it doesn't install properly without it live on their servers. I only have this code left and the only working version of the app installed on my phone.
- 
-It can be downloaded for free here:
-https://play.google.com/store/apps/details?id=com.ArachnoidEntertainment.Lumiwarp
 
 ![Screenshot](Screenshot1.png) 
 
